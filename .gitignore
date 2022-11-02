@@ -15,3 +15,6 @@
 
 # Virtual environment files
 venv/
+
+# jupyter notebooks
+*.ipynb
